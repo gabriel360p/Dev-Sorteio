@@ -23,10 +23,9 @@ Com uma interface minimalista e responsiva, o projeto foi desenvolvido para prat
 - **JavaScript (Vanilla)** → Lógica e interatividade  
 
 ---
-
-## 📸 Preview
-
-Adicione aqui um print do seu projeto 👇
-
-```bash
-/assets/tela-sorteio.png
+## ▶️ Como executar o projeto
+Clone o repositório:
+git clone https://github.com/seu-usuario/dev-sorteio.git
+Acesse a pasta do projeto:
+cd desafio-sorteador
+Abra o arquivo index.html no navegador

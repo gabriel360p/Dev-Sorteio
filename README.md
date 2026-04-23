@@ -1,0 +1,32 @@
+# 🎲 Sorteador Online
+
+Um sorteador simples e eficiente que gera números aleatórios dentro de um intervalo definido pelo usuário.
+
+Com uma interface minimalista e responsiva, o projeto foi desenvolvido para praticar lógica de programação e manipulação do DOM com JavaScript.
+
+---
+
+## 🚀 Funcionalidades
+
+- 🎯 Geração de números aleatórios entre dois valores
+- ⚠️ Validação de entrada (aceita apenas números válidos)
+- ⚡ Atualização dinâmica do resultado na tela
+- 📱 Layout responsivo para dispositivos móveis
+- 🎨 Interface simples com estilo moderno
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- **HTML5** → Estrutura da aplicação  
+- **CSS3** → Estilização e responsividade  
+- **JavaScript (Vanilla)** → Lógica e interatividade  
+
+---
+
+## 📸 Preview
+
+Adicione aqui um print do seu projeto 👇
+
+```bash
+/assets/tela-sorteio.png

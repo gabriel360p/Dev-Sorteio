@@ -21,7 +21,7 @@ Com uma interface minimalista e responsiva, o projeto foi desenvolvido para prat
 - **HTML5** → Estrutura da aplicação  
 - **CSS3** → Estilização e responsividade  
 - **JavaScript (Vanilla)** → Lógica e interatividade
-- 
+  
 ---
 
 🔮 Melhorias futuras

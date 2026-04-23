@@ -20,12 +20,27 @@ Com uma interface minimalista e responsiva, o projeto foi desenvolvido para prat
 
 - **HTML5** → Estrutura da aplicação  
 - **CSS3** → Estilização e responsividade  
-- **JavaScript (Vanilla)** → Lógica e interatividade  
+- **JavaScript (Vanilla)** → Lógica e interatividade
+- 
+---
+
+🔮 Melhorias futuras
+🔄 Permitir sorteio de nomes/palavras
+🎲 Adicionar histórico de resultados
+🌍 Integração com banco de dados/localStorage
+🎨 Melhorar UI/UX com animações
+🔘 Seleção de tipo de sorteio (número ou texto)
 
 ---
+
 ## ▶️ Como executar o projeto
-Clone o repositório:
-git clone https://github.com/seu-usuario/dev-sorteio.git
-Acesse a pasta do projeto:
-cd desafio-sorteador
-Abra o arquivo index.html no navegador
+- Clone o repositório: git clone https://github.com/seu-usuario/dev-sorteio.git
+- Acesse a pasta do projeto:
+- cd desafio-sorteador
+- Abra o arquivo index.html no navegador
+
+---
+
+👨‍💻 Autor
+
+Desenvolvido por Gabriel Costa 🚀
